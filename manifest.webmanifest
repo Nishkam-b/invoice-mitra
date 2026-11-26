@@ -1,0 +1,12 @@
+{
+  "name": "Invoice Mitra by Nishtek",
+  "short_name": "Invoice Mitra",
+  "description": "Create. Send. Get Paid. GST invoices, quotations and receipts for Indian freelancers, creators and small businesses.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F8F9F7",
+  "theme_color": "#176B50",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
